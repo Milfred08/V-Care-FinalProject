@@ -8,6 +8,21 @@ This is a MERN stack application which is based on booking appointment which inc
 
 https://v--care.herokuapp.com/
 
+## Main Page
+![step](client/src/img/Screenshot%20from%202022-09-21%2017-19-11.png?raw=true)
+
+## Sign up
+
+![step](client/src/img/Screenshot%202022-09-21%20212245.jpg)
+
+## Log In
+
+![step](client/src/img/Screenshot%202022-09-21%20211043.jpg)
+
+## Doctor Profiles
+
+![step](client/src/img/Screenshot%202022-09-21%20210809.jpg)
+
 
 ## Install server dependencies
 npm install
