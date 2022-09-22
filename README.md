@@ -8,6 +8,10 @@ This is a MERN stack application which is based on booking appointment which inc
 
 https://v--care.herokuapp.com/
 
+>Open your favorite web browser and enter the following web address to see the web address on my portfolio.
+
+https://milfred08.github.io/React-Portfolio/ 
+
 ## Main Page
 ![step](client/src/img/Screenshot%20from%202022-09-21%2017-19-11.png?raw=true)
 
